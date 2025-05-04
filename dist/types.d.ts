@@ -53,4 +53,4 @@ export interface UpdatePointOutput extends UpdateItemOutput {
 export interface Item {
     [key: string]: AttributeValue;
 }
-export declare type ItemList = Item[];
+export type ItemList = Item[];
